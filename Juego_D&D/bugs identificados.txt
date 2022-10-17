@@ -1,0 +1,1 @@
+Bug: El comando save no debería permitirse en medio de un combate. En el estado actual, al hacerlo, genera un extraño comportamiento, que guarda la escena final del juego en lugar de la actual que se desea guardar
